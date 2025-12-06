@@ -1,0 +1,4 @@
+ranking,mape_mean|coverage,mape_mean|distance,mape_mean|diversified,mape_mean|random,mape_std|coverage,mape_std|distance,mape_std|diversified,mape_std|random
+RF,12.27 ± 0.37,13.10 ± 0.39,12.41 ± 0.44,12.87 ± 0.45,12.27 ± 0.37,13.10 ± 0.39,12.41 ± 0.44,12.87 ± 0.45
+Spearman,25.06 ± 0.94,22.89 ± 0.75,22.78 ± 0.79,23.05 ± 0.61,25.06 ± 0.94,22.89 ± 0.75,22.78 ± 0.79,23.05 ± 0.61
+XGB,12.45 ± 0.27,13.08 ± 0.26,11.67 ± 0.33,13.01 ± 0.39,12.45 ± 0.27,13.08 ± 0.26,11.67 ± 0.33,13.01 ± 0.39
